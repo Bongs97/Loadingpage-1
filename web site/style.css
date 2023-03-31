@@ -1,0 +1,16 @@
+ body{
+    background-color: darksalmon;
+ }
+ h1{
+    background-color: darksalmon;
+    font-size: large; 
+    text-decoration: skyblue; 
+    font-style: bold; 
+    text-size-adjust: 5000%; 
+    width: 100%;
+    color: rgb(238, 35, 180);
+ } 
+
+ nav{
+    background-color: darksalmon;
+ }
