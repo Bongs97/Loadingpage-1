@@ -47,7 +47,11 @@
  nav{
     background-color: rgb(73, 63, 63);  
 
- }  
+ }   
+
+ button{
+  background-color: maroon;
+ }
 
  a {
    background-color: rgb(121, 7, 7); 
